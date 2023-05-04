@@ -1,4 +1,4 @@
-package JavaExercicios.AulaOperadores;
+package JavaExercicios.Operadores;
 
 /**
  * @author katerinelindawitkoski

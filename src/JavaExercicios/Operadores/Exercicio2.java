@@ -1,4 +1,4 @@
-package JavaExercicios.AulaOperadores;
+package JavaExercicios.Operadores;
 import java.util.Scanner;
 /**
  * @author katerinelindawitkoski
