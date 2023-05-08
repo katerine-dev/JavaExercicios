@@ -45,9 +45,6 @@ public class Exercicio4 {
         System.out.println("O menor número: " + menorValor);
         System.out.println("O maior número: " + maiorValor);
 
-
-
-
     }
     
 }
