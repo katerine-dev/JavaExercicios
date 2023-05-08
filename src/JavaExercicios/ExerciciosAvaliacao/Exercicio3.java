@@ -55,12 +55,6 @@ public class Exercicio3 {
             System.out.println(inteiro3 + " é o menor número");
         }
 
-
-
-
-
-
-
     }
     
 }
