@@ -1,5 +1,5 @@
 package JavaExercicios.EstruturasRepeticao;
-
+import java.util.Scanner;
 
 /**
  * @author katerinelindawitkoski
@@ -16,7 +16,6 @@ Faça um programa que:
 
 public class Exercicio8 {
     public static void main(String[] args) {
-
         Scanner entrada = new Scanner(System.in);
 
         int contador = 1;
@@ -51,6 +50,8 @@ public class Exercicio8 {
         System.out.println(mediaClasse / 5);
 
         entrada.close();
+
+
     }
     
 }

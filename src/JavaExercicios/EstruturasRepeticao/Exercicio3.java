@@ -1,5 +1,5 @@
 package JavaExercicios.EstruturasRepeticao;
-
+import java.util.Scanner;
 
 /**
  * @author katerinelindawitkoski

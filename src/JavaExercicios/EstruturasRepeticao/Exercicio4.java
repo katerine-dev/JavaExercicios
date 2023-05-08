@@ -17,6 +17,8 @@ public class Exercicio4 {
         while (numero <= 20) {
             System.out.println(numero / 2);
             numero++;
+        }
+
     }
-    
 }
+
