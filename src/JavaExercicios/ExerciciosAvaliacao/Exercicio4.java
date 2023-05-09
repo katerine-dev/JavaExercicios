@@ -21,7 +21,7 @@ public class Exercicio4 {
         int menorValor = 0;
         int maiorValor = 0;
 
-        while (contador < 10) {
+        while (contador < 5) {
             System.out.println("Digite um numero");
             numeros = entrada.nextInt();
 
