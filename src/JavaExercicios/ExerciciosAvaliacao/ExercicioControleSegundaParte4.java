@@ -59,7 +59,7 @@ public class ExercicioControleSegundaParte4 {
             codigoProduto = entrada.nextInt();
 
         }
-        
+
         entrada.close();
     }
 }

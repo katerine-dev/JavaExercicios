@@ -16,6 +16,8 @@ Exiba as barras dos asteriscos depois de ler os cinco números.
 
 public class ExercicioControleSegundaParte3 {
     public static void main(String[] args) {
-
+/*
+?????????
+ */
     }
 }
