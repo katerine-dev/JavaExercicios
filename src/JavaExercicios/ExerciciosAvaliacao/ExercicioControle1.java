@@ -23,8 +23,8 @@ public class ExercicioControle1 {
 
         int quilometrosDirigidos = 0;
         int litrosConsumidos = 0;
-        int quilometragemTotal = -1;
-        int somaLitros = -1;
+        int quilometragemTotal = 0;
+        int somaLitros = 0;
 
         Scanner entrada = new Scanner(System.in);
 
@@ -39,8 +39,8 @@ public class ExercicioControle1 {
             double consumo = (double) quilometrosDirigidos/litrosConsumidos;
             System.out.println("Km/l é igual: " + consumo);
 
-            quilometragemTotal = quilometrosDirigidos + 1;
-            somaLitros = litrosConsumidos + 1;
+            quilometragemTotal = quilometrosDirigidos + quilometragemTotal;
+            somaLitros = litrosConsumidos + somaLitros;
 
             System.out.println("--------------------------");
             System.out.println("Quilometragem total: " + quilometragemTotal);
