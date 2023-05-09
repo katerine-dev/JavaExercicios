@@ -44,7 +44,7 @@ public class ExercicioControle2 {
         double redimento = ((0.09 * somaItens)+ salarioSemana);
 
         System.out.println("O seu rendimento é " + redimento);
-        
+
 
     }
 
