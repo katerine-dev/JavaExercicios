@@ -23,8 +23,8 @@ public class ExercicioControle1 {
 
         int quilometrosDirigidos = 0;
         int litrosConsumidos = 0;
-        int quilometragemTotal = 0;
-        int somaLitros = 0;
+        int quilometragemTotal = -1;
+        int somaLitros = -1;
 
         Scanner entrada = new Scanner(System.in);
 
