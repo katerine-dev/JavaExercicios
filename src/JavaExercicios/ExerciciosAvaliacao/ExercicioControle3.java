@@ -46,6 +46,7 @@ public class ExercicioControle3 {
             }
 
         }
+        entrada.close();
 
     }
 
