@@ -18,7 +18,7 @@ Todos os cálculos de média devem produzir resultados de ponto flutuante.
 Utilize classe Scanner e repetição controlada por sentinela para obter os dados do usuário.
  */
 
-public class Exerciciocontrole1 {
+public class ExercicioControle1 {
     public static void main(String[] args) {
 
         int quilometrosDirigidos = 0;
